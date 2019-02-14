@@ -1,0 +1,9 @@
+{
+	"service": {
+		"oracle": "ok",
+		"rabbitmq": "ok",
+		"iis": "down",
+		"windows_service": "down",
+		"logstash": "ok"
+	}
+}
